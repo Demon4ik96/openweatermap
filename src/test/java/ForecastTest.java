@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class ForecastTest extends Specifications
+public class ForecastTest
 {
   private static final String URL = "https://api.openweathermap.org/data/2.5/forecast";
   private static final Map<String, Double> IF_COORDINATES = Map.of("lat", 48.9225224, "lon", 24.7103188);

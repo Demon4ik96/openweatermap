@@ -10,7 +10,7 @@ import org.apache.http.HttpStatus;
 
 import java.util.Map;
 
-public abstract class Specifications
+public class Specifications
 {
   public static RequestSpecification requestSpec(String url)
   {

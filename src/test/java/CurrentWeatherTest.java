@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-public class CurrentWeatherTest extends Specifications
+public class CurrentWeatherTest
 {
   @BeforeClass
   public void setupRequestSpecification()
